@@ -1,5 +1,5 @@
 # Questa è la pagina Github di [Bestfast](https://github.com/Bestfast).
-Io sono Bestfast. Sono uno studente quartodicenne della [Karl-Lehr Realschule](http://www.karl-lehr-realschule.de/), [vivo a Duisburg](https://it.wikipedia.org/wiki/Duisburg) e sono moderatore del [MagicLife](http://magiclife.forumcommunity.net/). 
+Io sono Bestfast. Sono uno studente quattodicenne della [Karl-Lehr Realschule](http://www.karl-lehr-realschule.de/), [vivo a Duisburg](https://it.wikipedia.org/wiki/Duisburg) e sono moderatore del [MagicLife](http://magiclife.forumcommunity.net/). 
 I miei hobby sono:
 * Guardare Anime e leggere Manga(sì, sono un Otaku :P)
 * Imparare nuovi linguaggi di programmazione(Sto attualmente imparando il C++)
